@@ -14,7 +14,7 @@ param secondaryLocation string = 'EastUs2'
 
 @minLength(1)
 @description('Location for the Azure AI Content Understanding service deployment:')
-@allowed(['WestUS', 'SwedenCentral', 'AustraliaEast'])
+@allowed(['WestUS', 'EastUS', 'EastUs2'])
 @metadata({
   azd: {
     type: 'location'
