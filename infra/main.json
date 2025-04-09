@@ -27,9 +27,9 @@
     "contentUnderstandingLocation": {
       "type": "string",
       "allowedValues": [
-        "WestUS",
-        "SwedenCentral",
-        "AustraliaEast"
+        "EastUS",
+        "EastUs2",
+        "SouthCentralUS"
       ],
       "metadata": {
         "azd": {
